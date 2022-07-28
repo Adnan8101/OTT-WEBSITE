@@ -1,0 +1,18 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .blockq{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
+  body{
+    background-image: url('https://images.squarespace-cdn.com/content/v1/567e05c4e0327cd48ad079f3/1549319265416-SZ96S4HGTOXCWT6HT685/SPECTURM.gif?format=1500w');
+  }
+  .intro{
+    color: white;
+  }
